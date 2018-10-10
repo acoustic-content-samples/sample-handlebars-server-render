@@ -1,0 +1,11 @@
+{
+  "id": "feature-block-layout",
+  "rev": "1-f274f039ea7e1e4da616e283090055d9",
+  "name": "Feature Block Layout",
+  "classification": "layout",
+  "description": "Default layout for feature block",
+  "prerender": true,
+  "template": "/templates/feature-block.hbs",
+  "templateType": "handlebars",
+  "urlTemplate": "/samples/feature-block/{name}.html"
+}

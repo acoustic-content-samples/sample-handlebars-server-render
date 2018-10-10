@@ -1,0 +1,87 @@
+{
+  "id": "9b59c9b8-d6a5-441f-88f5-e72b78c5176d",
+  "rev": "1-b9ddefdbc5ecf391ad9ec63701526776",
+  "kind": [],
+  "classification": "content",
+  "typeId": "3f917f41-9ce8-460f-bedd-04b3cb76c6a6",
+  "type": "Feature block",
+  "name": "the-open-road",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-10-04T22:02:05.346Z",
+  "creatorId": "64b4432e-aab1-4b53-8fd0-86ce823ca47d",
+  "creator": "Jonathan Booth",
+  "lastModified": "2018-10-04T22:02:05.346Z",
+  "lastModifierId": "64b4432e-aab1-4b53-8fd0-86ce823ca47d",
+  "lastModifier": "Jonathan Booth",
+  "systemModified": "2018-10-04T22:02:05.346Z",
+  "elements": {
+    "featureHeadline": {
+      "elementType": "text",
+      "value": "The open road ahead"
+    },
+    "descriptionOfFeature": {
+      "elementType": "formattedtext",
+      "value": "<p>We can help you clear any and all obstacles that block your path. With our help, your future can be a wide open highway as far as the eye can see.</p>\n\n<p>Ipsam consectetur for reprehenderit but quam or sequi officia. Autem ipsa so ab and laboris minima yet accusantium, explicabo. </p>\n"
+    },
+    "image": {
+      "elementType": "image",
+      "mode": "shared",
+      "asset": {
+        "id": "6b16e0f7-fed7-4e67-ac71-22e84f58b350",
+        "resourceUri": "/authoring/v1/resources/258c9ee1-a30a-4fbf-8edd-1b61b7773419",
+        "fileSize": 512705,
+        "fileName": "highway-ahead.jpeg",
+        "mediaType": "image/jpeg",
+        "width": 1280,
+        "height": 960,
+        "altText": ""
+      },
+      "renditions": {
+        "default": {
+          "source": "/authoring/v1/resources/258c9ee1-a30a-4fbf-8edd-1b61b7773419"
+        }
+      }
+    },
+    "readMoreLink": {
+      "elementType": "link",
+      "linkText": "Read more",
+      "linkURL": "https://ibm.com",
+      "linkDescription": "Read more"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "feature-block-layout"
+      }
+    }
+  ],
+  "locale": "en",
+  "thumbnail": {
+    "id": "6b16e0f7-fed7-4e67-ac71-22e84f58b350",
+    "url": "/authoring/v1/resources/258c9ee1-a30a-4fbf-8edd-1b61b7773419?fit=inside%7C220:145"
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/content/9b59c9b8-d6a5-441f-88f5-e72b78c5176d"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/9b59c9b8-d6a5-441f-88f5-e72b78c5176d/status/retire"
+    },
+    "type": {
+      "href": "/authoring/v1/types/3f917f41-9ce8-460f-bedd-04b3cb76c6a6"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/258c9ee1-a30a-4fbf-8edd-1b61b7773419?fit=inside%7C220:145"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/9b59c9b8-d6a5-441f-88f5-e72b78c5176d/create-draft"
+    }
+  },
+  "keywords": [],
+  "publishing": {
+    "status": "not-available"
+  }
+}

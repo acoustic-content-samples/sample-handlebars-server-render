@@ -1,0 +1,38 @@
+{
+  "id": "3f917f41-9ce8-460f-bedd-04b3cb76c6a6",
+  "rev": "1-0730095ef0e1ec3c2d7506388b33114c",
+  "name": "Feature block",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "image",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Feature headline",
+      "key": "featureHeadline"
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Description of feature",
+      "key": "descriptionOfFeature"
+    },
+    {
+      "elementType": "image",
+      "label": "Image",
+      "key": "image"
+    },
+    {
+      "elementType": "link",
+      "label": "Read more link",
+      "key": "readMoreLink"
+    }
+  ]
+}

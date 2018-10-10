@@ -1,0 +1,87 @@
+{
+  "id": "c48ca224-f98d-41c6-b01b-f867d90c4566",
+  "rev": "1-2ab527920164ece50806631bdb3c049b",
+  "kind": [],
+  "classification": "content",
+  "typeId": "3f917f41-9ce8-460f-bedd-04b3cb76c6a6",
+  "type": "Feature block",
+  "name": "questions",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-10-04T22:02:05.138Z",
+  "creatorId": "64b4432e-aab1-4b53-8fd0-86ce823ca47d",
+  "creator": "Jonathan Booth",
+  "lastModified": "2018-10-04T22:02:05.138Z",
+  "lastModifierId": "64b4432e-aab1-4b53-8fd0-86ce823ca47d",
+  "lastModifier": "Jonathan Booth",
+  "systemModified": "2018-10-04T22:02:05.138Z",
+  "elements": {
+    "featureHeadline": {
+      "elementType": "text",
+      "value": "You have questions?"
+    },
+    "descriptionOfFeature": {
+      "elementType": "formattedtext",
+      "value": "<p>We have answers. Click the link below to make an appointment with one of our representives, at a time that&#39;s convenient for you. </p>\n\n<p> </p>\n\n<p> </p>\n"
+    },
+    "image": {
+      "elementType": "image",
+      "mode": "shared",
+      "asset": {
+        "id": "0816f2e7-c125-4b8c-aa30-ec8b09dce545",
+        "resourceUri": "/authoring/v1/resources/10cd444f-306c-46f3-b5af-bdbb299ffd79",
+        "fileSize": 173053,
+        "fileName": "woman-with-questions.jpg",
+        "mediaType": "image/jpeg",
+        "width": 1280,
+        "height": 960,
+        "altText": ""
+      },
+      "renditions": {
+        "default": {
+          "source": "/authoring/v1/resources/10cd444f-306c-46f3-b5af-bdbb299ffd79"
+        }
+      }
+    },
+    "readMoreLink": {
+      "elementType": "link",
+      "linkText": "Schedule a meeting",
+      "linkURL": "https://www.ibm.com",
+      "linkDescription": "Schedule a meeting"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "feature-block-layout"
+      }
+    }
+  ],
+  "locale": "en",
+  "thumbnail": {
+    "id": "0816f2e7-c125-4b8c-aa30-ec8b09dce545",
+    "url": "/authoring/v1/resources/10cd444f-306c-46f3-b5af-bdbb299ffd79?fit=inside%7C220:145"
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/content/c48ca224-f98d-41c6-b01b-f867d90c4566"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/c48ca224-f98d-41c6-b01b-f867d90c4566/status/retire"
+    },
+    "type": {
+      "href": "/authoring/v1/types/3f917f41-9ce8-460f-bedd-04b3cb76c6a6"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/10cd444f-306c-46f3-b5af-bdbb299ffd79?fit=inside%7C220:145"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/c48ca224-f98d-41c6-b01b-f867d90c4566/create-draft"
+    }
+  },
+  "keywords": [],
+  "publishing": {
+    "status": "not-available"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "feature-block-list-mappings",
+  "rev": "1-ae295b360a5a398cfe2182cdb46a2937",
+  "name": "Feature block list mappings",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "37e700d5-824a-482b-b67e-2fc1588f6fc0",
+    "name": "Feature block list"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "feature-block-list-layout",
+        "name": "Feature Block List Layout"
+      },
+      "layouts": [
+        {
+          "id": "feature-block-list-layout",
+          "name": "Feature Block List Layout"
+        }
+      ]
+    }
+  ]
+}

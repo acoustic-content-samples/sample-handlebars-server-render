@@ -1,0 +1,33 @@
+{
+  "id": "37e700d5-824a-482b-b67e-2fc1588f6fc0",
+  "rev": "1-c697b65a57a155b368ad1664bce76b79",
+  "name": "Feature block list",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "formattedtext",
+      "label": "List header",
+      "key": "listHeader"
+    },
+    {
+      "elementType": "reference",
+      "label": "Feature blocks",
+      "key": "featureBlocks",
+      "restrictTypes": [
+        {
+          "id": "3f917f41-9ce8-460f-bedd-04b3cb76c6a6",
+          "name": "Feature block"
+        }
+      ],
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "fieldLabel": "Feature block"
+    }
+  ]
+}

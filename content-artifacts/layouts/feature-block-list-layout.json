@@ -1,0 +1,11 @@
+{
+  "id": "feature-block-list-layout",
+  "rev": "1-bffe1a30a236a2fa2175ee3fb9bd957a",
+  "name": "Feature Block List Layout",
+  "classification": "layout",
+  "description": "Default layout for feature block list",
+  "prerender": true,
+  "template": "/templates/feature-block-list.hbs",
+  "templateType": "handlebars",
+  "urlTemplate": "/samples/feature-block-list/{name}.html"
+}
