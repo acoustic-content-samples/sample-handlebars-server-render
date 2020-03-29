@@ -1,6 +1,6 @@
 # sample-handlebars-server-render
 
-This is a sample of the Handlebars pre-render feature of Watson Content Hub (WCH). This feature lets you associate a Handlebars template with a content type and layout. When any content item for the type is published, it is rendered using the Handlebars template and the resulting markup is published to the WCH CDN delivery system. 
+This is a sample of the Handlebars pre-render feature of Acoustic Content (formerly Watson Content Hub or WCH). This feature lets you associate a Handlebars template with a content type and layout. When any content item for the type is published, it is rendered using the Handlebars template and the resulting markup is published to the WCH CDN delivery system. 
 
 Links to documentation for this WCH rendering feature: 
 * https://developer.ibm.com/customer-engagement/tutorials/render-html-article-page-templates-layout/
