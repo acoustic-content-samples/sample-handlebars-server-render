@@ -3,8 +3,8 @@
 This is a sample of the Handlebars pre-render feature of Acoustic Content (formerly Watson Content Hub or WCH). This feature lets you associate a Handlebars template with a content type and layout. When any content item for the type is published, it is rendered using the Handlebars template and the resulting markup is published to the WCH CDN delivery system. 
 
 Links to documentation for this WCH rendering feature: 
-* https://developer.ibm.com/customer-engagement/tutorials/render-html-article-page-templates-layout/
-* https://developer.ibm.com/customer-engagement/docs/wch/rendering/
+- https://developer.goacoustic.com/acoustic-content/docs/rendering
+- https://developer.goacoustic.com/acoustic-content/docs/render-an-html-article-page-with-templates-and-layout
 
 This sample includes two content types with associated artifacts. The content types were created in the WCH user interface.
 
