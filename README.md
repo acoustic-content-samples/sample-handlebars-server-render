@@ -1,6 +1,8 @@
 # sample-handlebars-server-render
 
-This is a sample of the Handlebars pre-render feature of Acoustic Content (formerly Watson Content Hub or WCH). This feature lets you associate a Handlebars template with a content type and layout. When any content item for the type is published, it is rendered using the Handlebars template and the resulting markup is published to the WCH CDN delivery system. 
+This is a sample of the Handlebars server rendering feature of Acoustic Content (formerly Watson Content Hub or WCH). This feature lets you associate a Handlebars template with a content type and layout. Any content item can then be rendered on the server when any content item for the type is published. There are two ways that the rendering can be done:
+- It can be "pre-rendered" using the Handlebars template and the resulting markup is published to the Content CDN delivery system, by setting the "prerender" flag in the layout as shown in this sample.
+- It can be rendered by calling the delivery render service, using this API: <API URL>/delivery/v1/rendering/render/content/<content ID>.
 
 Links to documentation for this WCH rendering feature: 
 - https://developer.goacoustic.com/acoustic-content/docs/rendering
