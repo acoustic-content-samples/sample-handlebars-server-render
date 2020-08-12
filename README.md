@@ -46,6 +46,9 @@ Make sure that you have initialized wchtools with your user and tenant API URL. 
 
 For the value for {delivery-url}, use the "Delivery URL" value from the Watson Content Hub Information panel.
 
+Instead of pre-rendering the HTML, you can also use the Delivery Render service to render on demand. This is the URL you can use for that:
+* {api-url}/delivery/v1/rendering/render/content/{content-item-ID}
+
 ## Notes on publishing content and making updates
 After you have initially uploaded and published the sample, when any Feature block or Feature block list is published, the corresponding HTML will be published on the CDN. 
 
