@@ -4,7 +4,7 @@ This is a sample of the Handlebars server rendering feature of Acoustic Content 
 - It can be "pre-rendered" using the Handlebars template and the resulting markup is published to the Content CDN delivery system, by setting the "prerender" flag in the layout as shown in this sample.
 - It can be rendered by calling the delivery render service, using this API: <API URL>/delivery/v1/rendering/render/content/<content ID>.
 
-Links to documentation for this WCH rendering feature: 
+Links to documentation for this Content rendering feature: 
 - https://developer.goacoustic.com/acoustic-content/docs/rendering
 - https://developer.goacoustic.com/acoustic-content/docs/render-an-html-article-page-with-templates-and-layout
 
